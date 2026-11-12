@@ -1,0 +1,11 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "Task Management Tool using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Student",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "blogging-platform-api",
+  "version": "1.0.0",
+  "description": "blogging-platform-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

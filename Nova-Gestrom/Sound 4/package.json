@@ -1,0 +1,9 @@
+{
+  "name": "server-uptime-monitor",
+  "version": "1.0.0",
+  "description": "server-uptime-monitor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

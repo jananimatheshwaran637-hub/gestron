@@ -1,0 +1,12 @@
+{
+  "name": "movie-catalog",
+  "version": "1.0.0",
+  "description": "movie-catalog",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
